@@ -7,7 +7,7 @@ install() {
 		sudo add-apt-repository ppa:ubuntu-toolchain-r/test
 		sudo apt-get install g++-4.7 c++-4.7
 		sudo apt-get update		
-        sudo apt-get upgrade
+                sudo apt-get upgrade
 		sudo apt-get dist-upgrade
 		sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 		sudo apt-get install libbsd-dev
