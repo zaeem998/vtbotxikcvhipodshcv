@@ -1,5 +1,5 @@
-# [BDReborn](yon.ir/m7V6)
+# [BDReborn](yon.ir/V9b5)
 * **Install Bot**
 `````sh
-yon.ir/m7V6
+yon.ir/V9b5
 `````
